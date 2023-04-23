@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+.selector{
+	padding:50px;
+	width: 300px;
+	background-color:light blue;
+	border: 15px solid blue;
+	margin:20px
+}
+
